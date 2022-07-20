@@ -3,6 +3,11 @@
 --------------------------
 
 ## Activities for Lab 1 
+-------------------------------
+
+- Learning how to setup and clone repositories.
+- Pushing and pulling with git commands.
+- Creating HTML, CSS and JS files.
 
 -------------------------------
 
