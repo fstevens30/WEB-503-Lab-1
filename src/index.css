@@ -1,0 +1,18 @@
+body {
+    background-color: #fdc33c;
+}
+h1 {
+    color: darkgreen;
+}
+
+p {
+    color: darkblue;
+}
+
+.first-tag {
+    color: darkred;
+}
+
+#second-tag {
+    color: darkblue;
+}
